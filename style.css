@@ -62,6 +62,15 @@ body {
     font-weight: bold;
 }
 
+
+.buttons button:active {
+    background: rgb(46, 45, 45);
+}
+
+.buttons button:focus {
+    outline: 0;
+}
+
 .number {
     background: #0C0C0B;
     color: #B1B1B0;

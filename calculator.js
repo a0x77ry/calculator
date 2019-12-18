@@ -21,7 +21,7 @@ function divide(a, b) {
 let displayStr = '';
 let isDecimal = false;
 let decimalCounter = 0;
-let displayStrMaxLength = 30;
+let displayStrMaxLength = 11;
 
 const display = document.querySelector('.display');
 
